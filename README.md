@@ -44,4 +44,4 @@ Track customer retention and identify churn trends with this dashboard:
 
 ---
  
-   git clone https://github.com/BhairaviFulsundar/BhairaviFulsundar/PowerBi Projects.git
+   git clone https://github.com/BhairaviFulsundar/BhairaviFulsundar.git
